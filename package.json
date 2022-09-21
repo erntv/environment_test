@@ -1,5 +1,5 @@
 {
-  "name": "test-app",
+  "name": "book-collection-solution",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",

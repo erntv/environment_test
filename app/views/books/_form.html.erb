@@ -8,7 +8,6 @@
           <li><%= error.full_message %></li>
         <% end %>
       </ul>
-
     </div>
   <% end %>
 
@@ -29,7 +28,7 @@
 
   <div class="field">
     <%= form.label :published %>
-    <%= form.text_field :published %>
+    <%= form.date_select :published %>
   </div>
 
   <div class="actions">
